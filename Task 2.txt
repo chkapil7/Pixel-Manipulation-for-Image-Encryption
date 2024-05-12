@@ -1,0 +1,4 @@
+**Important :**
+ I used PIL to encrypt my images so need to need to have pil in teriminal
+if it does not exist try installing from the command below :
+pip install pillow
